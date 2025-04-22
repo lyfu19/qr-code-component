@@ -7,12 +7,12 @@ It’s a beginner-level project to practice basic HTML & CSS layout.
 
 ### Screenshot
 
-![Screenshot](./screenshot.png) <!-- 你可以截图保存为 screenshot.png -->
+![Screenshot](./screenshot.png)
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/你的用户名/你的仓库名)
-- Live Site URL: [Live Demo](https://你的部署链接.vercel.app)
+- Solution URL: [GitHub Repo](https://github.com/lyfu19/qr-code-component)
+- Live Site URL: [Live Demo](https://nimble-choux-f5a00a.netlify.app/)
 
 ## 🔨 My process
 
@@ -37,5 +37,5 @@ This project helped me practice:
 
 ## ✍️ Author
 
-- Frontend Mentor – [@你的用户名](https://www.frontendmentor.io/profile/你的用户名)
-- GitHub – [@你的GitHub名](https://github.com/你的GitHub名)
+- Frontend Mentor – [@Alfie](https://www.frontendmentor.io/profile/lyfu19)
+- GitHub – [@Alfie](https://github.com/lyfu19/qr-code-component)
