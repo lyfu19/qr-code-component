@@ -38,4 +38,4 @@ This project helped me practice:
 ## ✍️ Author
 
 - Frontend Mentor – [@Alfie](https://www.frontendmentor.io/profile/lyfu19)
-- GitHub – [@Alfie](https://github.com/lyfu19/qr-code-component)
+- GitHub – [@Alfie](https://github.com/lyfu19)
